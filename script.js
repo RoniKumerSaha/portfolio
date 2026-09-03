@@ -90,11 +90,12 @@
   const typingEl = document.getElementById('typing');
   if (typingEl) {
     const phrases = [
-      'Sr. SQA Engineer II',
+      'AI First Testing',
       'Playwright Automation',
       'API Testing',
       'CI/CD Pipelines',
-      'Mobile & Web Quality'
+      'Mobile & Web Quality',
+      'Performance Testing',
     ];
     let pi = 0;
     let ci = 0;
